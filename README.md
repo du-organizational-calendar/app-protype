@@ -23,10 +23,11 @@ Here is a list of my primary skills:
 * Adobe Suite
 * 3d animation
 
+#### Contacts and Social media
+
+* [git-hub](https://github.com/oscarvalenzo)
 
 ## Markdown
 
-Markdown is similar to HTML. where
-
-https://guides.github.com/features/mastering-markdown/
-https://www.seevividly.com/picture/69/Markdown_Reference
+Markdown is a shortform way to write HTML.The standard notation for github's flavour [can be found here](https://guides.github.com/features/mastering-markdown/)
+[found here](https://www.seevividly.com/picture/69/Markdown_Reference]
