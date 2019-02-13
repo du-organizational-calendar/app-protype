@@ -10,6 +10,11 @@ Here is a list of my primary skills:
 * Adobe **Illustrator**, **Photoshop**, **AfterEffect**, **Autodesk Maya**
 * Travel, watching movies are my hobbies.  
 
+#### Contacts & Social Media
+
+* [:computer: My homepage](https://github.com/ChiaYLai)
+
+
 
 ### Oscar Bello Valenzo
 
