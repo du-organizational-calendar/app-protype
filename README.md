@@ -22,7 +22,7 @@ Hi, my name is **Oscar Bello**, I am a George Brown College *Student*
 
 Here is a list of my primary skills:
 
-* Interest in world 
+* Interest in world
 * Biochemical Engineer
   * National Polytechnique Institute
 * Adobe Suite
@@ -36,3 +36,8 @@ Here is a list of my primary skills:
 
 Markdown is a shortform way to write HTML.The standard notation for github's flavour [can be found here](https://guides.github.com/features/mastering-markdown/)
 [found here](https://www.seevividly.com/picture/69/Markdown_Reference]
+
+
+
+HELP
+https://help.github.com/desktop/guides/contributing-to-projects/
