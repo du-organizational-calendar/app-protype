@@ -17,7 +17,7 @@ Hi, my name is **Oscar Bello**, I am a George Brown College *Student*
 
 Here is a list of my primary skills:
 
-* Interest in world Economics
+* Interest in world 
 * Biochemical Engineer
   * National Polytechnique Institute
 * Adobe Suite
