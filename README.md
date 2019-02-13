@@ -9,10 +9,10 @@ Hi, my name is **Oscar Bello**, I am a George Brown College *Student*
 Here is a list of my primary skills:
 
 * Interest in world Economics
-* Biochemical Engineer as a first Bachelor Degree
+* Biochemical Engineer
   * National Polytechnique Institute
-* Born in Mexico
-* Bio Engineering
+* Adobe Suite
+* 3d animation
 
 
 ## Markdown
