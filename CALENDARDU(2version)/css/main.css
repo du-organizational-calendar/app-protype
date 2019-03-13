@@ -1,0 +1,66 @@
+
+body{
+font-family: sans-serif; Helvetica;
+background-color: rgb(186, 197, 207);
+}
+
+.TopBar{
+  display: inline-flex;
+  margin: auto;
+  padding: 1em;
+  border: 1em;
+  font-size: 0.5em;
+}
+.Menu{
+  margin: 1em;
+  padding: 10px 10px 10px;
+  border: 20px 20px 20px 20px;
+}
+
+.UserName{
+  margin: 1em;
+  padding: 10px 10px 10px;
+  border: 20px 20px 20px 20px;
+}
+
+.Add{
+  margin: 1em;
+  padding: 10px 10px 10px;
+  border: 20px 20px 20px 20px;
+}
+
+.Share{
+  margin: 1em;
+  padding: 10px 10px 10px;
+  border: 20px 20px 20px 20px;
+}
+
+.Calendar{
+  font-family: sans-serif; Helvetica;
+  font-size: 80%;
+}
+.Calendar{
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+ grid-gap: 1rem;
+}
+
+main{
+  max-width: 10000px;
+  margin: 0;
+}
+.event-item{
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+
+article{
+  margin: 0;
+}
+article{
+  margin: 1rem 0;
+}
